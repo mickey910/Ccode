@@ -1,2 +1,3 @@
-# Some c/c++ code store  here
+#Ccode 
+##Some c/c++ code store  here
  
